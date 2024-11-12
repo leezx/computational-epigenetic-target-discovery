@@ -45,11 +45,6 @@ experiment repeat validation
 - Cell line/patient-derived organoid xenograft (growth/mRNA/protein/IHC)
 
 ref:
-- Gavish, A., Tyler, M., Greenwald, A.C. et al. Hallmarks of transcriptional intratumour heterogeneity across a thousand tumours. Nature 618, 598–606 (2023). https://doi.org/10.1038/s41586-023-06130-4
-        
-        
-        
-        
-        
-        
+- Gavish, A., Tyler, M., Greenwald, A.C. et al. Hallmarks of transcriptional intratumour heterogeneity across a thousand tumours. Nature 618, 598–606 (2023). 
+- Liu, J., Dang, H. & Wang, X. The significance of intertumor and intratumor heterogeneity in liver cancer. Exp Mol Med 50, e416 (2018). 
 - https://github.com/carmonalab/GeneNMF
