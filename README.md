@@ -36,13 +36,14 @@ AI structure
 AI text mining
 1. Known target-cancer relationship [Database]
 
-others:
-- normal human single-cell atlas for side effect evaluation (normal GRN)
-- gene expression in different tissues, tissue toxic score
-
 experiment repeat validation 
 - Perturbseq
 - Cell line/patient-derived organoid xenograft (growth/mRNA/protein/IHC)
+
+others:
+- normal human single-cell atlas for side effect evaluation (normal GRN)
+- gene expression in different tissues, tissue toxic score
+- biomarker-guided targeted therapy
 
 ref:
 - Gavish, A., Tyler, M., Greenwald, A.C. et al. Hallmarks of transcriptional intratumour heterogeneity across a thousand tumours. Nature 618, 598–606 (2023). 
