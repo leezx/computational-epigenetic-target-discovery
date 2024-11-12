@@ -4,7 +4,7 @@ computational epigenetic target discovery
 De novo target discovery
 1. cancer subtyping and biomarker
 2. single-cell cancer atlas
-3. cancer module discovery
+3. cancer module discovery (intertumor and intratumor heterogeneity)
 4. module clustering and annotation
 5. master epigenetic regulator discovery
 6. evaluation of module and target
@@ -46,4 +46,10 @@ experiment repeat validation
 
 ref:
 - Gavish, A., Tyler, M., Greenwald, A.C. et al. Hallmarks of transcriptional intratumour heterogeneity across a thousand tumours. Nature 618, 598–606 (2023). https://doi.org/10.1038/s41586-023-06130-4
+        
+        
+        
+        
+        
+        
 - https://github.com/carmonalab/GeneNMF
