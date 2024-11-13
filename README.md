@@ -17,7 +17,7 @@ module identification and annotation
 4. projection with known non-redundant gene sets
 
 target validation:
-1. DepMap rank
+1. DepMap rank (conditional dependence/subtype)
 2. TCGA overexpression
 
 epigenetics
