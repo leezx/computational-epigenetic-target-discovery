@@ -19,3 +19,8 @@ TF motifs in cancer
 - what are the most cancer-enriched TF motifs based on bulk/scRNA-seq
 - does cancer have its specific peaks?
 
+
+refs:
+- [The Human Transcription Factors](https://www.sciencedirect.com/science/article/pii/S0092867418301065)
+- [Extensive binding of uncharacterized human transcription factors to genomic dark matter](https://www.biorxiv.org/content/10.1101/2024.11.11.622123v1)
+
