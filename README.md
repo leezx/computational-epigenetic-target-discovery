@@ -1,6 +1,8 @@
 # computational-epigenetic-target-discovery
 computational epigenetic target discovery
 
+Phenotype-Cellular state-CEM-GRN-epiDriver-PROTAC
+
 De novo target discovery
 1. cancer subtyping and biomarker
 2. single-cell cancer atlas
