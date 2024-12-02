@@ -3,6 +3,19 @@ computational epigenetic target discovery
 
 Phenotype-Cellular state-CEM-GRN-epiDriver-PROTAC
 
+how to find a good cancer target?
+- human population genetic data (e.g. KRAS mutation)
+- human population bulk RNA-seq (e.g. TCGA)
+- human population scRNA-seq (e.g. CRC-Atlas, SOX9)
+
+A pipeline to find a good target in cancer:
+- cancer patient stratification by transcriptome
+- OE in the cancer
+- Dep in the cancer
+- Low side effects
+- ligand available, but not too hot
+- Pan cancer
+
 Key web lab experiments for cancer target validation:
 1. Overexpression in cancer (mouse models and human patients) (qRT-PCR, immunohistochemistry) (TCGA, scRNA-seq, survival)
 2. Cancer dependence (DepMap, cell line/Organoids CellTiterGlo by KD/KO, colony formation assay, cell line/Organoids xenograft in nude mice)
