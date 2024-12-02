@@ -3,6 +3,15 @@ computational epigenetic target discovery
 
 Phenotype-Cellular state-CEM-GRN-epiDriver-PROTAC
 
+Key web lab experiments for cancer target validation:
+1. Overexpression in cancer (mouse models and human patients) (qRT-PCR, immunohistochemistry) (TCGA, scRNA-seq, survival)
+2. Cancer dependence (DepMap, cell line/Organoids CellTiterGlo by KD/KO, colony formation assay, cell line/Organoids xenograft in nude mice)
+3. Molecular mechanisms (differentiation, signaling pathway, NGS multi-omics, new up/down-stream regulators)
+
+ref:
+- An Enhancer-Driven Stem Cell–Like Program Mediated by SOX9 Blocks Intestinal Differentiation in Colorectal Cancer
+- Identifying regulators of aberrant stem cell and differentiation activity in colorectal cancer using a dual endogenous reporter system
+
 De novo target discovery
 1. cancer subtyping and biomarker
 2. single-cell cancer atlas
