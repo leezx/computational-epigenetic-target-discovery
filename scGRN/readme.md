@@ -33,3 +33,7 @@ DepMap pre-filtering
 TCGA pre-filtering
 - the epi-factors significantly OE in the cancer
 
+ref:
+- Badia-i-Mompel, P., Wessels, L., Müller-Dott, S. et al. Gene regulatory network inference in the era of single-cell multi-omics. Nat Rev Genet 24, 739–754 (2023).
+- Unger Avila, P., Padvitski, T., Leote, A.C. et al. Gene regulatory networks in disease and ageing. Nat Rev Nephrol 20, 616–633 (2024).
+- 
