@@ -31,5 +31,7 @@ refs:
 - [Progressive plasticity during colorectal cancer metastasis](https://www.nature.com/articles/s41586-024-08150-0) - HTAN CRC metastasis Dana Peer
 - Intratumor heterogeneity: the Rosetta stone of therapy resistance - DFCI
 - Cancer cell states recur across tumor types and form specific interactions with the tumor microenvironment
+- Untangling the web of intratumour heterogeneity
+- Clinical implications of intratumor heterogeneity: challenges and opportunities
 - 
 
